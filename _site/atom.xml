@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000"/>
+ <updated>2010-07-04T03:08:25-05:00</updated>
+ <id>http://localhost:4000</id>
+
+ 
+ <author>
+   <name>Harper Reed</name>
+   <email>harper@nata2.org</email>
+ </author>
+ 
+ 
+ 
+ <entry>
+   <title>Smitten by the iPad: thoughts and complaints. </title>
+   <link href="http://localhost:4000/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints.html"/>
+   <updated>2010-04-05T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
+   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
+&lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
+
+&lt;p&gt;Besides the irrational distortion field emitted by this shiny device, I have some general thoughts/complaints on the iPad. &lt;ol&gt;
+	&lt;li&gt;&lt;strong&gt;The lack of camera is irrational.&lt;/strong&gt; I have no idea why apple didn't include two cameras on the iPad. It would be an amazing device for parents, students, people, etc. Chatting is annoying on non-multitasking devices, however it might be nice to Skype with a slate like device. It will obviously be added to the next iteration of this device.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The iWork cloud platform is annoying.&lt;/strong&gt; Importing and exporting documents is very hard. It is obviously not meant to be used by people who have documents already. The only way to get shit on the device is to download it. Why wouldn't Apple integrate iWork with MobileMe? silly. Google will have to change their Docs platform to allow easy downloading from the mobile google docs page.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The lack of any clock or alarm app very strange.&lt;/strong&gt; I use the clock app on the iphone for a lot of stuff. not having that is a bummer. but in the grand scheme of bummers its about a 0.00001/5.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;There is no usb host mode&lt;/strong&gt; (that i know of). I would love to charge my phone, etc via USB with this device. it would minimize the number of cables and what not i would bring. It would also be awesome to plugin external disks or keyboards to it.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Google Reader blows on the iPad.&lt;/strong&gt; This is a real bummer since that is pretty much the one thing i want to have all the time. You can't scroll with the desktop version and the mobile version seems silly on the iPad. I can't wait for Google to &quot;fix&quot; all of their webapps for the iPad.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Using an iPhone after spending a lot of time on the iPad makes the iPhone seem like a midget&lt;/strong&gt;. It makes the nexus one seems like it is made out of paper.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The iPad is probably one of the coolest ways to show presentations to someone while sitting at a bar.&lt;/strong&gt; I have been pitching some ideas to people and having the iPad with my deck is pretty awesome. A great way to go over your presentation with one or two people. Way better than a laptop.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;The Kindle app is awesome&lt;/strong&gt;. I like it a lot. I want to try reading a book on the iPad, but i really like the kindle's screen.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Most of the apps are boring.&lt;/strong&gt; Seriously. The apps that are impressive are: Kayak, Maps, Photos, Kindle, Twitterrific, instapaper, Netflix and Square&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href='https://squareup.com/'&gt;Square&lt;/a&gt; is one of the coolest apps I have seen.&lt;/strong&gt; It should blow peoples minds. I imagine that it will be a game changer for friends who do retail. I can't wait for my square card reader to show up. I will be charging my friends for everything.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;This is an amazing device for casual internet use.&lt;/strong&gt; I imagine that Hiromi, my parents, my brother and anyone else who isn't attached to a computer all day long would love these devices.&lt;/li&gt;
+&lt;/ol&gt; Overall the iPad is amazing. I can&amp;#8217;t wait to see how developers iterate on the platform and create really nifty applications. It will also be fun to see what features Apple magically unlocks on the iPad.&lt;/p&gt;
+
+&lt;p&gt;I am going to try and build some applications now. If you have ideas - let me know.&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>Musings about femtocells: the futures!</title>
+   <link href="http://localhost:4000/2010/02/11/musings-about-femtocells-the-futures.html"/>
+   <updated>2010-02-11T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2010/02/11/musings-about-femtocells-the-futures</id>
+   <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
+&lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
+
+&lt;p&gt;A femtocell device is basically a mini GSM/CDMA tower. Think of it as a wi-fi AP but instead of wi-fi - it is GSM. You could drop it into your house, plug it into the Internet, and suddenly get 5 bars of connectivity on your mobile handset - instead of the standard AT&amp;#38;T 1 bar. magicJack is offering the same service the USB dongle provides (unlimited calling and what not), but for mobile phones.  As a consumer, you would need to configure your handset to use the magicJack femtocell to receive/send calls.  When you are in range of the device (w/ signal strength enough to cover ~3000 sq. ft. house), you would bypass your carrier and use the magicJack for all incoming and outgoing calls. AWESOME.  Especially with the likes of Google Voice.&lt;/p&gt;
+
+&lt;p&gt;There are questions on the legality of such a device - but it is apparently legal to use inside your residence.&lt;/p&gt;
+
+&lt;p&gt;Side note: &lt;a href='http://www.google.com/search?q=magicjack+sip'&gt;Magicjack is SIP&lt;/a&gt;. And &lt;a href='http://magicjackhacks.com/'&gt;hackable&lt;/a&gt;. There is a cat and mouse game being played out trying to unlock it.  You can even use it with &lt;a href='http://en.wikipedia.org/wiki/Asterisk_(PBX)'&gt;Asterisk&lt;/a&gt;.&lt;/p&gt;
+&lt;strong&gt;The thoughts&lt;/strong&gt;
+&lt;p&gt;So I began to think.  Femtocells could be used to open up mobile VOIP.  One scenario is that you could jump on a 3rd party carrier for a limited time to make a p2p VOIP call using your current GSM/WCDMA mobile device.  That is really awesome.  More importantly, what&amp;#8217;s REALLY awesome is the pirate (3rd party) carriers.&lt;/p&gt;
+
+&lt;p&gt;Imagine purchasing 100 &lt;a href='http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/'&gt;Motorola F3&lt;/a&gt;&amp;#8217;s, a &lt;a href='http://en.wikipedia.org/wiki/Gnu_radio'&gt;GNU Radio USRP2&lt;/a&gt; (~$1400) running the &lt;a href='http://en.wikipedia.org/wiki/OpenBTS'&gt;OpenBTS stack&lt;/a&gt; and a super huge antenna - and suddenly becoming a rural/developing country mobile provider. Or - if you&amp;#8217;re more interested in being a pirate carrier - you could run this setup in a city and be a carrier for the dark side (drugs, gangs, nerds&amp;#8230;). This inexpensive setup is available (and achievable) today!  In case of the apocalypse/disaster/camping/nerdcamp - I think it would be nice to have a set up to deploy to organize/help people.&lt;/p&gt;
+
+&lt;p&gt;My mind started to work into overtime.  I began thinking about the ramifications of hacking the magicJack. Wouldn&amp;#8217;t it be neat to use femtocell technology to distribute ad hoc mobile carriers around a neighborhood/disaster area/rural/developing country?  You could hook the magicJack femtocell up to a &lt;a href='http://en.wikipedia.org/wiki/FON#Fonera_2.0n'&gt;Fon2 device (usb/linux/broadband)&lt;/a&gt; and distribute them around in places with connectivity. All you would need is a better antenna and some software to manage the provisioning and device identification. BAM! Instant pirate P2P GSM carrier.&lt;/p&gt;
+
+&lt;p&gt;I am hoping that this type of convergence will lead us &lt;a href='http://www.imdb.com/title/tt0088763/'&gt;to the future&lt;/a&gt;.&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>I love phones designed for developing countries. </title>
+   <link href="http://localhost:4000/2010/01/17/i-love-phones-designed-for-developing-countries.html"/>
+   <updated>2010-01-17T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2010/01/17/i-love-phones-designed-for-developing-countries</id>
+   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
+&lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
+
+&lt;p&gt;These are not Razrs, or other shitty mobile devices which act like they have all sorts of amazing features.  These specific phones are single feature, cheap devices and are often deployed in developing countries.&lt;/p&gt;
+
+&lt;p&gt;There are two that I really enjoy and I suggest checking out.&lt;/p&gt;
+
+&lt;p&gt;The first is the &lt;a href='http://en.wikipedia.org/wiki/Nokia_1100'&gt;Nokia 1100&lt;/a&gt;. Also known as my favorite phone in the world. I first saw this phone while working for &lt;a href='http://www.flickr.com/photos/natatwo/sets/72057594078282161/'&gt;a minute in Bangalore&lt;/a&gt;. It was advertised as a phone &amp;#8221;&lt;a href='http://knowledge.wharton.upenn.edu/india/article.cfm?articleid=4358'&gt;made for india&lt;/a&gt;&amp;#8221; and apparently was hardy enough to be used by the working class there. I was drawn to the device. I neeeeeded it. It&amp;#8217;s weird, because at the time I was running a symbian device that supported about every possible feature available in mobile - so thinking about jumping to a mobile device that was pretty much featureless was crazy. But - I was compelled.&lt;/p&gt;
+
+&lt;p&gt;The phone isn&amp;#8217;t that fancy. It has very few features. It is super tiny and is super cheap. It is just a basic, simple phone that does nothing more than look &amp;#8220;Nokia&amp;#8221; and probably makes calls. The features it has are incredibly handy: flashlight, alarm clock and sms messaging.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#8217;t realize it then, but the Nokia 1100 is possibly the most popular electronic device in the world. According to the infallible wikipedia: Nokia has sold ~200 million of the Nokia 1100s since it&amp;#8217;s launch in 2003. To put it in perspective - there have been ~30MM iPhones sold and ~50MM Razrs sold.&lt;/p&gt;
+
+&lt;p&gt;I eventually got a couple of these and used them as lenders, experiments and generaly fucking around phones. I even sent one to my brother for him to use - which he eventually washed in a washing machine - it still boots. They are HARDY. and 20 bucks.&lt;/p&gt;
+
+&lt;p&gt;The second phone that I am interested in is a bit newer and is a bit more tech. The &lt;a href='http://en.wikipedia.org/wiki/Motorola_FONE_F3'&gt;Motorola F3&lt;/a&gt;. My buddy &lt;a href='http://thinkmoreinc.wordpress.com/2009/03/19/50-2/'&gt;Hemmant showed it to me&lt;/a&gt;, told me a bit about the history and I couldn&amp;#8217;t stop thinking about it. Anecdotally, this phone was made by a Motorola team in india - again for use in the developing countries market. It is simple, has no features (even less than the 1100) and is JUST a phone. There is one major differentiator. The Motorola f3 is one of the only phones to have an e-ink display. This means that it uses very little power in standby (standby time of ~17 days), can be used in low light/no light situations and is rather resilient. The phone didn&amp;#8217;t sell as many as the Nokia 1100 - in fact it was a veritable failure.&lt;/p&gt;
+
+&lt;p&gt;The F3 has no features. It barely send txt messages. It has voice prompts for all menus. It is just a phone. A user serviceable, easy to charge, thin, e-ink phone. It works well making calls and receiving txt messages. The F3 would be an amazing phone for a child, elderly person or someone who doesn&amp;#8217;t want to deal with learning pesky features. I got one for my &amp;#8220;go bag&amp;#8221; as an emergency phone (I am not a survivalist, I just crush a lot).&lt;/p&gt;
+
+&lt;p&gt;You can find an unlocked &lt;a href='http://www.amazon.com/gp/product/B0013A7KMW?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0013A7KMW'&gt;Motorola f3 for about 30 bucks on amazon&lt;/a&gt;. I suggest you get one.&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>How to customize this template</title>
+   <link href="http://localhost:4000/2009/10/27/how-to-customize-this-template.html"/>
+   <updated>2009-10-27T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2009/10/27/how-to-customize-this-template</id>
+   <content type="html">Nothing here yet.
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>How to use this template</title>
+   <link href="http://localhost:4000/2009/10/26/how-to-use-this-template.html"/>
+   <updated>2009-10-26T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2009/10/26/how-to-use-this-template</id>
+   <content type="html">Nothing here yet.
+</content>
+
+
+
+ </entry>
+ 
+ 
+</feed>
