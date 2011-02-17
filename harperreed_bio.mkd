@@ -1,3 +1,4 @@
+#informal first person#
 My name is [Harper](http://nata2.org/). I am an engineer excited about real time apps, social software and open source software. In a previous life, I was the CTO of the awesome [Threadless](http://threadless.com). I am patiently waiting for the singularity.
 
 When I am not working or causing problems you can find me [blogging about random stuff](http://nata2.org), yoyoing, juggling, hacking random internet appliances or going out and having a good time in Chicago.
@@ -5,3 +6,8 @@ When I am not working or causing problems you can find me [blogging about random
 Be sure and check out my [blog](http://nata2.org). Here is my [resume](http://harperreed.org/resume). 
 
 I am very easy to get a hold of - [feel free to reach out](http://harperreed.org/contact). Send me an email at [harper@nata2.org](mailto:harper@nata2.org) or hit me up at [@harper](http://twitter.com/harper) on twitter. 
+
+
+----
+#Third person#
+Harper Reed is awesome. He exists in the wonderful Chicago, Il where he helps startups start and technology techno. In a previous life, Harper was the CTO of the amazing Threadless.com, where he helped build the technology to grow a small t-shirt company into a crowdsourcing beast. As an a engineer, Harper is very interested in real time social software, civic data hacking and the future of the social internet. When not causing problems with technology, Harper can be found yo-yoing, juggling and hacking random internet appliances. You can read his blog at nata2.org or follow him on twitter at @harper.
